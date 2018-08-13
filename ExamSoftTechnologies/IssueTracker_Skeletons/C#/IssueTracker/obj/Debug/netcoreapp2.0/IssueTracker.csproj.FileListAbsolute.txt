@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.deps.json
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.json
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.dev.json
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.pdb
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfo.cs
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Users\User\Desktop\ExamSoftTechnologies\IssueTracker_Skeletons\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.pdb
